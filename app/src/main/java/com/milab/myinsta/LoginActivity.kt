@@ -29,6 +29,7 @@ class LoginActivity : AppCompatActivity() {
             val password = etPassword.text.toString()
             if (email.isBlank() || password.isBlank()) {
                 Toast.makeText(this, "Email or Password cannot be empty", Toast.LENGTH_SHORT).show()
+                btnLogin.isEnabled = true
                 return@setOnClickListener
             }
             // Firebase authentication
@@ -38,6 +39,7 @@ class LoginActivity : AppCompatActivity() {
                 if (task.isSuccessful) {
                     Toast.makeText(this, "Successfully logged in!!", Toast.LENGTH_SHORT).show()
                     goPostsActivity()
+
                 } else {
                     Log.e(TAG, "signInWithEmail failed", task.exception)
                     Toast.makeText(this, "Authentication failed!!", Toast.LENGTH_SHORT).show()

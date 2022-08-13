@@ -7,9 +7,38 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:271005906003:android:bbc25e66a0436b0a8a42a6",
+        "mobilesdk_app_id": "1:271005906003:android:97ef42c5a73b66b28a42a6",
         "android_client_info": {
           "package_name": "com.milab.myinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271005906003-19t2tqc0j4hp34bshnkj9k2ae63ueo1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNXOcYtPyXnxPd4gehwup4QddhH912MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271005906003-19t2tqc0j4hp34bshnkj9k2ae63ueo1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271005906003:android:bbc25e66a0436b0a8a42a6",
+        "android_client_info": {
+          "package_name": "com.milab.myinsta2"
         }
       },
       "oauth_client": [

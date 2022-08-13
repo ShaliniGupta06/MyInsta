@@ -2,4 +2,5 @@
     <string name="app_name">MyInsta</string>
     <string name="email_id">Email ID</string>
     <string name="password">Password</string>
+    <string name="choose_image">Choose Image</string>
 </resources>

@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta/app/src/main/res/layout/activity_create.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta/app/src/main/res/layout/activity_posts.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta/app/src/main/res/layout/item_post.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta2/app/src/main/res/drawable/ic_person.xml" value="0.1745" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta2/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MyInsta2/app/src/main/res/layout/activity_posts.xml" value="0.24947916666666667" />
